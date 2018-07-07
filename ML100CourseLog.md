@@ -2,9 +2,10 @@
 
 ## Day 0 : July 7, 2018
 
-**Today's Progress** : 
+**Today's Progress** : Taking fast.ai Lesson 1. Uploaded man/woman images to be classified.
+                       Am still stuck figuring out how to provide labels.
 
-**Thoughts** :
+**Thoughts** : Sleepy. But the show must go on.
 
 ## Day 1 : Jul 8 , 2018
 
