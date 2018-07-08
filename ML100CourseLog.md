@@ -9,9 +9,6 @@
 
 ## Day 1 : Jul 8 , 2018
 
-**Today's Progress** :
+**Today's Progress** : Trying to install fastai stuff directly on Google Colab instead of using Clouderizer. 
 
-**Thoughts** :
-
-
-**Link of Work:**   
+**Thoughts** : Getting at it.
