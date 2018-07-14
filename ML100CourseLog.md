@@ -24,3 +24,21 @@
 **Today's Progress** : Finally realized you just have to go through the installations every time you start up a Google Colab notebook. Reverting back to using Clouderizer...
 
 **Thoughts** : Hopefully can get started tomorrow. Gotta think of a way to initialize Clouderizer data so that my 1 hour window before I sleep is not wasted.
+
+## Day 4 : Jul 11 , 2018
+
+**Today's Progress** : Skipped!
+
+**Thoughts** : Oh noes!! There goes my initial momentum!!
+
+## Day 5 : Jul 12 , 2018
+
+**Today's Progress** : Back to Clouderizer. Found out how to label the pictures.
+
+**Thoughts** : Continuing tomorrow...
+
+
+## Day 6 : July 13 , 2018
+**Today's Progress** : Labeled about 700 pictures each of men and women. Highest accuracy without changing anything in the code was 86%.
+
+**Thoughts** : Clouderizer rocks! The labeled men and women data was stored on my Google Drive account. Also was surprised to see such a high accuracy on such low resolution photos, i.e. about 50 x 50 pixels thumbnails. That just blew my mind.
