@@ -42,3 +42,18 @@
 **Today's Progress** : Labeled about 700 pictures each of men and women. Highest accuracy without changing anything in the code was 86%.
 
 **Thoughts** : Clouderizer rocks! The labeled men and women data was stored on my Google Drive account. Also was surprised to see such a high accuracy on such low resolution photos, i.e. about 50 x 50 pixels thumbnails. That just blew my mind.
+
+## Day 7 : July 14 , 2018
+**Today's Progress** : Forgot what I did. But I did do something...
+
+**Thoughts** : Gotta be more disciplined!
+
+## Day 8 : July 15 , 2018
+**Today's Progress** : Ran into problems with missing weights and undefined commands. Fixed them, kinda.  
+
+**Thoughts** : Gotta be more disciplined!!!!
+
+## Day 9 : July 15 , 2018
+**Today's Progress** : Ran the resnext50 architecture thingy on a very low-res (about 50x50 pixels) set of woman/man images. The accuracy was 83.3%. Then realized due to syncing complications between Clouderizer and Google Drive, the valid and train folders had the full set of images and the test set had repeated images.
+
+**Thoughts** : Gotta download the data, sort them nicely, store them locally, send them back up to the cloud, without syncing. 
