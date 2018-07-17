@@ -56,4 +56,9 @@
 ## Day 9 : July 15 , 2018
 **Today's Progress** : Ran the resnext50 architecture thingy on a very low-res (about 50x50 pixels) set of woman/man images. The accuracy was 83.3%. Then realized due to syncing complications between Clouderizer and Google Drive, the valid and train folders had the full set of images and the test set had repeated images.
 
-**Thoughts** : Gotta download the data, sort them nicely, store them locally, send them back up to the cloud, without syncing. 
+**Thoughts** : Gotta download the data, sort them nicely, store them locally, send them back up to the cloud, without syncing.
+
+## Day 10 : July 16 , 2018
+**Today's Progress** : Watched fast.ai lesson 3, 60% of it.
+
+**Thoughts** : Tomorrow's task: Clean up and sort the woman/man dataset nicely, and then get dog breeds code running with lesson 1 code. 
