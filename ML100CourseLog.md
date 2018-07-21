@@ -61,4 +61,29 @@
 ## Day 10 : July 16 , 2018
 **Today's Progress** : Watched fast.ai lesson 3, 60% of it.
 
-**Thoughts** : Tomorrow's task: Clean up and sort the woman/man dataset nicely, and then get dog breeds code running with lesson 1 code. 
+**Thoughts** : Tomorrow's task: Clean up and sort the woman/man dataset nicely, and then get dog breeds code running with lesson 1 code.
+
+## Day 11 : July 17 , 2018
+**Today's Progress** : I think I did something. I forgot.
+
+**Thoughts** : Let's just say I did nothing.
+
+## Day 12 : July 18 , 2018
+**Today's Progress** : Again nothing.
+
+**Thoughts** : Going great!
+
+## Day 13 : July 19 , 2018
+**Today's Progress** : Nothing.
+
+**Thoughts** : Funny thing is I don't remember why I did nothing.
+
+## Day 14 : July 20 , 2018
+**Today's Progress** : Hit some bugs with Clouderizer losing partial data. Redownloaded dataset.
+
+**Thoughts** : Seems like things are slowing down.
+
+## Day 15 : July 21 , 2018
+**Today's Progress** : Ran through most of the dog breeds lesson 1 code, hitting some errors at the end.
+
+**Thoughts** : Gotta solve the errors tomorrow.
