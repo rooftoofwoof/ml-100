@@ -114,3 +114,9 @@ Am still stuck figuring out how to provide labels.
 **Today's Progress** : Ran fast.ai dog breed identification code on development box.
 
 **Thoughts** : Seems like it's as simple as installing anaconda, pytorch and fast.ai. GTX 1050 is a little slower than Tesla K80 when running the code.
+
+## Day 19 : September 9 , 2018
+
+**Today's Progress** : Connected to development box from home via Cloudapps. Started to replicate by hand lesson1 code. Using man woman dataset from the webz.
+
+**Thoughts** : Gosh... it takes so looooooong to replicate by hand. Hope it's worth it.
