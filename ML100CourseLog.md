@@ -102,3 +102,15 @@ Am still stuck figuring out how to provide labels.
 **Today's Progress** : Learned how to run the Jupyter notebooks on Colab without Clouderizer, then ran dog breeds code until almost the end. Was limited by Colab computing speed.
 
 **Thoughts** : BABY I'M BACK!!!
+
+## Day 17 : September 7 , 2018
+
+**Today's Progress** : Visited the university HPC center and learned how to utilize resources there to run fast.ai.
+
+**Thoughts** : If things work out, then the new cluster with much better GPUs might be available for machine learning usage.
+
+## Day 18 : September 8 , 2018
+
+**Today's Progress** : Ran fast.ai dog breed identification code on development box.
+
+**Thoughts** : Seems like it's as simple as installing anaconda, pytorch and fast.ai. GTX 1050 is a little slower than Tesla K80 when running the code.
