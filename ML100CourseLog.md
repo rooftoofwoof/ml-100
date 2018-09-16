@@ -113,7 +113,7 @@ Am still stuck figuring out how to provide labels.
 
 **Today's Progress** : Ran fast.ai dog breed identification code on development box.
 
-**Thoughts** : Seems like it's as simple as installing anaconda, pytorch and fast.ai. GTX 1050 is a little slower than Tesla K80 when running the code.
+**Thoughts** : Seems like it's as simple as installing anaconda, pytorch and fast.ai. GTX 1050 is a little faster than Tesla K80 when running the code.
 
 ## Day 19 : September 9 , 2018
 
@@ -126,3 +126,5 @@ Am still stuck figuring out how to provide labels.
 **Today's Progress** : Replicated without using copy and paste the whole friggin basic process for lesson 1. Dug into every line of code except for learn.fit and ConvLearner.pretrained. Will upload replica onto GitHub. Dataset used is already on GitHub. Humans vs Zombies!
 
 **Thoughts** : My brain got fried somewhere trying to code up the plots for the most correct/incorrect predictions.
+
+Fun fact: The model was 99% sure Donald Trump zombie was human. I 100% agree. He's most human when he's a zombie.
