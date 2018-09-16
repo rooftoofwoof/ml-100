@@ -120,3 +120,9 @@ Am still stuck figuring out how to provide labels.
 **Today's Progress** : Connected to development box from home via Cloudapps. Started to replicate by hand lesson1 code. Using man woman dataset from the webz.
 
 **Thoughts** : Gosh... it takes so looooooong to replicate by hand. Hope it's worth it.
+
+## Day 20 : September 15 , 2018
+
+**Today's Progress** : Replicated without using copy and paste the whole friggin basic process for lesson 1. Dug into every line of code except for learn.fit and ConvLearner.pretrained. Will upload replica onto GitHub. Dataset used is already on GitHub. Humans vs Zombies!
+
+**Thoughts** : My brain got fried somewhere trying to code up the plots for the most correct/incorrect predictions.
