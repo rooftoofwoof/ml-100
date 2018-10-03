@@ -128,3 +128,9 @@ Am still stuck figuring out how to provide labels.
 **Thoughts** : My brain got fried somewhere trying to code up the plots for the most correct/incorrect predictions.
 
 Fun fact: The model was 99% sure Donald Trump zombie was human. I 100% agree. He's most human when he's a zombie.
+
+## Day 21 : September 16 , 2018
+
+**Today's Progress** : Replicated the rest of lesson1.ipynb.
+
+**Thoughts** : Lesson 1 done!!!~
