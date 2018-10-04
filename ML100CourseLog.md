@@ -135,9 +135,14 @@ Fun fact: The model was 99% sure Donald Trump zombie was human. I 100% agree. He
 
 **Thoughts** : Lesson 1 done!!!~
 
-## Day 22 : October 1 , 2018
+## Day 22 : October 2 , 2018
 
 **Today's Progress** : Starting to replicate lesson 4 notebook. 
 
 **Thoughts** : Today begins my uninterrupted streak to finish this freaking challenge.
 
+## Day 23 : October 3 , 2018
+
+**Today's Progress** : Still replicating lesson 4 notebook. Bumped into a bug concerning an unfound file/directory.
+
+**Thoughts** : The biggest obstacles are always the simplest things...
