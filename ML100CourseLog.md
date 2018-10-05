@@ -146,3 +146,9 @@ Fun fact: The model was 99% sure Donald Trump zombie was human. I 100% agree. He
 **Today's Progress** : Still replicating lesson 4 notebook. Bumped into a bug concerning an unfound file/directory.
 
 **Thoughts** : The biggest obstacles are always the simplest things...
+
+## Day 24 : October 4 , 2018
+
+**Today's Progress** : Still replicating lesson 4 notebook. Bumped into insufficient memory error.
+
+**Thoughts** : Gotta upgrade the cluster dude!!! Roberto!!!
